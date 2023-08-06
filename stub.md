@@ -7,5 +7,3 @@ temperature: 0
 
 
 ### Create your prompts below and Stub will generate the code and documentation
-
-Now you have a NestJS application with CRUD API endpoints for the User and Todo entities. You can test the endpoints using tools like Postman or curl.
