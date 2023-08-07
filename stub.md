@@ -11,3 +11,12 @@ temperature: 0
 
 
 
+
+
+```stub
+Create a Typescript and NextJS codebase that allows a user to authenticate using Github. 
+Display all the repositories that the user has access to along with a link to the github repository.
+Use Octokit package.
+
+```
+
