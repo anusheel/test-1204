@@ -7,3 +7,13 @@ temperature: 0
 
 
 ### Create your prompts below and Stub will generate the code and documentation
+
+
+```stub
+Create a high quality codebase with NestJS and TypeORM for all the CRUD API endpoints with the following entity:
+- User, with attributes : name, email
+
+Use nest generate resource command. 
+Create production quality code that uses the best architecture.
+```
+
